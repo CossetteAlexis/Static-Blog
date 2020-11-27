@@ -28,6 +28,10 @@
     font-weight: 500;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .wrapper header.header .logo {}
 
 .wrapper header.header .logo h2 {
@@ -113,7 +117,7 @@
 }
 
 .content {
-    padding: 250px 280px;
+    padding: 25% 20%;
     background-color: rgb(0, 0, 0, 0.4);
 
 }
