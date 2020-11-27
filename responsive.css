@@ -10,12 +10,12 @@
     
     @media only screen and (max-width: 549px) {
         .content {
-            padding: 50px 80px;
+            padding: 15% 10%;
         }
     }
     
     @media only screen and (max-width: 365px) {
         .content {
-            padding: 50px 80px;
+            padding: 10% 5%;
         }
     }
