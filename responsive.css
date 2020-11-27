@@ -12,10 +12,15 @@
         .content {
             padding: 15% 10%;
         }
+        .big-image {
+            /* height: 100px;
+            width: 500px; */
+        }
     }
     
     @media only screen and (max-width: 365px) {
         .content {
             padding: 10% 5%;
         }
+        
     }
