@@ -12,9 +12,27 @@
         .content {
             padding: 15% 10%;
         }
-        .big-image {
-            /* height: 100px;
-            width: 500px; */
+        section.blog-post-area .big-image {
+            /* float: bottom; */
+            width: 100%;
+            /* padding-right: 5%; */
+        }
+
+        section.blog-post-area .big-text {
+            /* float: right; */
+            text-align: center;
+            width: 100%;
+            /* padding-right: 20px; */
+            padding-bottom:20px;
+        }
+        section.blog-post-area .big-text h4 {
+            margin-top: 10px;
+            padding-top: 10px;
+            position: relative;
+            text-align: left;
+        }
+        section.blog-post-area .big-text h4 span.author {
+            text-align: none;
         }
     }
     
