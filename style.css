@@ -90,7 +90,11 @@ body {
 
 .wrapper section.bg-text-area .bg-text {
     background-image: url(img/7.jpg);
-    background-size: 100% 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+    /* background-size: 100% 100%; */
     /* padding: 205px 280px; */
 }
 
@@ -118,7 +122,7 @@ body {
 
 .content {
     padding: 25% 20%;
-    background-color: rgb(0, 0, 0, 0.4);
+    background-color: rgb(0, 0, 0, 0.5);
 
 }
 
